@@ -1,0 +1,13 @@
+AA1,22.03.2011,Warszawa,Katowice,Patryk,Osysek,13,
+AA4,11.05.1999,Krakow,Wroclaw,Michal,Osiewicz,12,
+AA3,22.03.2020,Warszaw,Katowice,Marcin,Krzesinski,10,
+AA1,22.03.2011,Warszawa,Katowice,Kinga,Osiewicz,9,
+AA2,11.10.2004,Zwardon,Katowice,Rafal,Weglarz,10,
+AA3,22.03.2020,Warszaw,Katowice,Wojtek,Paton,24,
+AB6,30.12.2018,Katowice,Londyn,Oliwia,Weglarz,69,
+AA1,22.03.2011,Warszawa,Katowice,Karolina,Loter,12,
+AB6,30.12.2018,Katowice,Londyn,Oskar,Chilewski,45,
+AB6,30.12.2018,Katowice,Londyn,Iza,Adamczyk,13,
+AA1,22.03.2011,Warszawa,Katowice,Ewelina,Hulboj,15
+
+
